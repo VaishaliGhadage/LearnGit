@@ -1,20 +1,5 @@
 window.addEventListener("load", function() {
-  console.log("Hello World!");
+  console.log("Hello Git!");
 });
 
-
-function navBar()
-{
-  
-  var x=document.getElementByID("myTopNav");
-  if(x.className==topNav)
-    {
-      x.className + ="responsive";
-      
-    }
-   else
-     {
-        x.className + ="topNav";
-     }
-   conslole.log(x.className);
-}
+console.log("app js")
