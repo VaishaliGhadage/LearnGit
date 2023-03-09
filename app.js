@@ -1,7 +1,7 @@
 window.addEventListener("load", function() {
-  console.log("Hello Git!");
-  console.log("Hello");
+  console.log("Stash we created");
+
   
 });
 
-console.log("app js")
+
